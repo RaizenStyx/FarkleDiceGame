@@ -1,0 +1,27 @@
+Welcome to Farkle! Farkle is a dice game that is multi-player with a minimum of two players, but no upper limit on the number of participants. The goal is to reach 10,000 points first. Here are the rules:
+
+Points:
+- A roll of a 1 is worth 100 points.
+- A roll of a 5 is worth 50 points.
+- Three (3) dice rolled at the same time with the same value is worth 100 times the face value.
+  - Example: three 2's rolled is 200 points, three 5's rolled is 500 points.
+- Exception: Three 1's rolled is 1,000 points rather than 100 points.
+
+The Play:
+- The first player rolls all six dice at the same time and sets aside any "point dice" (1s, 5s, or three of a kind).
+- The player can continue rolling the remaining dice to collect more points or stop and keep their points.
+- A Farkle occurs when the dice are rolled and no point dice appear.
+  - The player loses all points collected in that turn and play passes to the next player.
+- If a player stops rolling before a Farkle, their collected points are recorded.
+- If all six dice become point dice, the player must roll all six dice again at least once before stopping.
+
+Entering the Game:
+- A player must score at least 1,000 points in one turn to officially enter the game and record points.
+- Until a player enters, they must continue rolling until reaching 1,000 points.
+- Players may strategically choose to set aside certain dice to increase their chances of scoring higher.
+
+Winning:
+- The first player to reach 10,000 points triggers a final round.
+- Each other player gets one last turn to try to beat the highest score.
+- If no one beats it, the first player to reach 10,000 wins.
+- If another player surpasses the score, they become the winner.
